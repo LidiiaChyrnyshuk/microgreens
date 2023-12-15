@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmicrogreens=self.webpackChunkmicrogreens||[]).push([[720],{720:function(e,i,r){r.r(i),r.d(i,{default:function(){return o}});var t=r(184);function o(){return(0,t.jsxs)("section",{children:[(0,t.jsx)("h1",{children:"About Us"}),(0,t.jsx)("p",{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio architecto voluptate iusto libero ut cupiditate, dolor vero vitae laudantium quod eligendi alias sit eos, vel dolore minus reprehenderit? Aperiam, doloribus?"})]})}}}]);
+//# sourceMappingURL=720.bd525cf8.chunk.js.map
