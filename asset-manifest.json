@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/microgreens/static/css/main.7acaea2f.css",
-    "main.js": "/microgreens/static/js/main.2a0a055e.js",
+    "main.css": "/microgreens/static/css/main.b19f2f5a.css",
+    "main.js": "/microgreens/static/js/main.e9089942.js",
     "static/js/107.1703ee04.chunk.js": "/microgreens/static/js/107.1703ee04.chunk.js",
     "static/js/720.bd525cf8.chunk.js": "/microgreens/static/js/720.bd525cf8.chunk.js",
     "static/js/635.72448298.chunk.js": "/microgreens/static/js/635.72448298.chunk.js",
     "index.html": "/microgreens/index.html",
-    "main.7acaea2f.css.map": "/microgreens/static/css/main.7acaea2f.css.map",
-    "main.2a0a055e.js.map": "/microgreens/static/js/main.2a0a055e.js.map",
+    "main.b19f2f5a.css.map": "/microgreens/static/css/main.b19f2f5a.css.map",
+    "main.e9089942.js.map": "/microgreens/static/js/main.e9089942.js.map",
     "107.1703ee04.chunk.js.map": "/microgreens/static/js/107.1703ee04.chunk.js.map",
     "720.bd525cf8.chunk.js.map": "/microgreens/static/js/720.bd525cf8.chunk.js.map",
     "635.72448298.chunk.js.map": "/microgreens/static/js/635.72448298.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.2a0a055e.js"
+    "static/css/main.b19f2f5a.css",
+    "static/js/main.e9089942.js"
   ]
 }
