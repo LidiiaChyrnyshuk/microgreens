@@ -1,3 +1,9 @@
+import { NavLink } from 'react-router-dom';
+
 export const Logo = () => {
-  return <div>Green Master</div>;
+  return (
+    <NavLink to="/">
+      <div>Green Master</div>
+    </NavLink>
+  );
 };
