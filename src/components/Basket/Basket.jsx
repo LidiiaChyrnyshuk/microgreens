@@ -1,7 +1,9 @@
+import { BasketBtn } from './Basket.styled';
+
 export const Basket = () => {
   return (
     <>
-      <button>Basket</button>
+      <BasketBtn>Basket</BasketBtn>
     </>
   );
 };

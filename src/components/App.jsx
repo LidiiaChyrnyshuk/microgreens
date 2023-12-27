@@ -2,9 +2,9 @@ import { lazy } from 'react';
 import { Navigate, Route, Routes } from 'react-router-dom';
 import Layout from './Layout/Layout';
 
-const Home = lazy(() => import('./pages/Home/Home'));
-const About = lazy(() => import('./pages/About/About'));
-const Products = lazy(() => import('./pages/Products/Products'));
+const Home = lazy(() => import('../pages/Home/Home'));
+const About = lazy(() => import('../pages/About/About'));
+const Products = lazy(() => import('../pages/Products/Products'));
 
 export const App = () => {
   return (
