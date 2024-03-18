@@ -1,5 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
+import persistReducer from 'redux-persist/es/persistReducer';
 import { fetchProducts } from './productsOperations';
+import storage from 'redux-persist/lib/storage';
 
 const productsInitialState = {
   products: [],
@@ -31,3 +33,14 @@ const productsSlice = createSlice({
 });
 
 export const productsReducer = productsSlice.reducer;
+
+const productsPersistConfig = {
+  key: 'products',
+  storage,
+  whitelist: ['products'],
+};
+
+export const persistedProductsReducer = persistReducer(
+  productsPersistConfig,
+  productsReducer
+);
